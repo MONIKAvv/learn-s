@@ -1,0 +1,20 @@
+.hey{
+  background-color: rgb(93, 93, 195);
+  color: white;
+  height: 50px;
+  width:  90px;
+  border-radius: 5px;
+  box-shadow: 3px;
+}
+
+.bag-btn{
+background-color: rgb(113, 248, 113);
+border-radius: 10px;
+border: none;
+padding: 10px 15px;
+}
+.wish-list{
+padding: 2px 30px;
+border: 2px solid black;
+border-radius: 5px;
+}

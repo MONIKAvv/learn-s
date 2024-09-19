@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+
+}
+.input-field{
+  width: 160px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  text-align: right;
+
+}
+.btn_container{
+  width: 130px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+.btn{
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  margin-top: 4px;
+  text-align: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: inset 5px 5px 10px 0px rgba(253, 160, 160, 0.5);
+}
